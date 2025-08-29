@@ -1,4 +1,7 @@
+# Node modules and build directories
 node_modules/
 client/node_modules/
 build/
+
+# Environment variables file
 .env
