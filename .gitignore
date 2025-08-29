@@ -1,7 +1,7 @@
 # Node modules and build directories
-node_modules/
-client/node_modules/
-build/
+node_modules/    # Ignored to prevent installing packages in version control
+client/node_modules/    # Ignored to prevent installing client-side packages in version control
+build/    # Ignored to prevent build artifacts from being tracked
 
 # Environment variables file
 .env    # Ignored for security reasons, contains sensitive configuration data
