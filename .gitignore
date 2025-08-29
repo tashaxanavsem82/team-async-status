@@ -4,4 +4,4 @@ client/node_modules/
 build/
 
 # Environment variables file
-.env
+.env    # Ignored for security reasons, contains sensitive configuration data
